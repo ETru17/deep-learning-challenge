@@ -1,5 +1,4 @@
 # deep-learning-challenge
-# deep-learning-challenge
 # Analysis Report
 
 The purpose of this analysis is to develop a predictive model for Alphabet Soup, a nonprofit foundation. The model aims to identify applicants who are most likely to succeed if awarded funding. By analyzing a dataset of over 34,000 organizations that have previously received funding, the model will predict whether future applicants will effectively utilize the funds they receive. 
